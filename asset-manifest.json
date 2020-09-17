@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/tap-room/static/css/main.d630fb4f.chunk.css",
-    "main.js": "/tap-room/static/js/main.522a5abf.chunk.js",
-    "main.js.map": "/tap-room/static/js/main.522a5abf.chunk.js.map",
+    "main.css": "/tap-room/static/css/main.004eb7de.chunk.css",
+    "main.js": "/tap-room/static/js/main.2a0a2882.chunk.js",
+    "main.js.map": "/tap-room/static/js/main.2a0a2882.chunk.js.map",
     "runtime-main.js": "/tap-room/static/js/runtime-main.3ec78d29.js",
     "runtime-main.js.map": "/tap-room/static/js/runtime-main.3ec78d29.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/tap-room/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.2e0e4ed9.chunk.js": "/tap-room/static/js/2.2e0e4ed9.chunk.js",
-    "static/js/2.2e0e4ed9.chunk.js.map": "/tap-room/static/js/2.2e0e4ed9.chunk.js.map",
+    "static/js/2.cc62946a.chunk.js": "/tap-room/static/js/2.cc62946a.chunk.js",
+    "static/js/2.cc62946a.chunk.js.map": "/tap-room/static/js/2.cc62946a.chunk.js.map",
     "index.html": "/tap-room/index.html",
-    "precache-manifest.5c142536298949db1a1c99ad8ef7d35a.js": "/tap-room/precache-manifest.5c142536298949db1a1c99ad8ef7d35a.js",
+    "precache-manifest.9b89afeed33babf960d2d00246a9e21f.js": "/tap-room/precache-manifest.9b89afeed33babf960d2d00246a9e21f.js",
     "service-worker.js": "/tap-room/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/tap-room/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.d630fb4f.chunk.css.map": "/tap-room/static/css/main.d630fb4f.chunk.css.map"
+    "static/css/main.004eb7de.chunk.css.map": "/tap-room/static/css/main.004eb7de.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.3ec78d29.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.2e0e4ed9.chunk.js",
-    "static/css/main.d630fb4f.chunk.css",
-    "static/js/main.522a5abf.chunk.js"
+    "static/js/2.cc62946a.chunk.js",
+    "static/css/main.004eb7de.chunk.css",
+    "static/js/main.2a0a2882.chunk.js"
   ]
 }
